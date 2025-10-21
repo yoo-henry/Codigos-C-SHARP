@@ -1,0 +1,7 @@
+U:\Aulas\Programação em Algoritimo\Conversor Dolar\bin\Debug\Conversor Dolar.exe.config
+U:\Aulas\Programação em Algoritimo\Conversor Dolar\bin\Debug\Conversor Dolar.exe
+U:\Aulas\Programação em Algoritimo\Conversor Dolar\bin\Debug\Conversor Dolar.pdb
+U:\Aulas\Programação em Algoritimo\Conversor Dolar\obj\Debug\Conversor Dolar.csproj.AssemblyReference.cache
+U:\Aulas\Programação em Algoritimo\Conversor Dolar\obj\Debug\Conversor Dolar.csproj.CoreCompileInputs.cache
+U:\Aulas\Programação em Algoritimo\Conversor Dolar\obj\Debug\Conversor Dolar.exe
+U:\Aulas\Programação em Algoritimo\Conversor Dolar\obj\Debug\Conversor Dolar.pdb

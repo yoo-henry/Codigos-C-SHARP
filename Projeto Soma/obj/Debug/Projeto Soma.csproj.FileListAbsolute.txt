@@ -1,0 +1,7 @@
+U:\Aulas\Programação em Algoritimo\Projeto Soma\bin\Debug\Projeto Soma.exe.config
+U:\Aulas\Programação em Algoritimo\Projeto Soma\bin\Debug\Projeto Soma.exe
+U:\Aulas\Programação em Algoritimo\Projeto Soma\bin\Debug\Projeto Soma.pdb
+U:\Aulas\Programação em Algoritimo\Projeto Soma\obj\Debug\Projeto Soma.csproj.AssemblyReference.cache
+U:\Aulas\Programação em Algoritimo\Projeto Soma\obj\Debug\Projeto Soma.csproj.CoreCompileInputs.cache
+U:\Aulas\Programação em Algoritimo\Projeto Soma\obj\Debug\Projeto Soma.exe
+U:\Aulas\Programação em Algoritimo\Projeto Soma\obj\Debug\Projeto Soma.pdb
