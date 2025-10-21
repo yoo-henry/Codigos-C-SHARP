@@ -1,0 +1,7 @@
+D:\home\henrique_25334\Documents\Codigos C#\02_exemplo_switch_case\obj\Debug\02_exemplo_switch_case.csproj.AssemblyReference.cache
+D:\home\henrique_25334\Documents\Codigos C#\02_exemplo_switch_case\obj\Debug\02_exemplo_switch_case.csproj.CoreCompileInputs.cache
+D:\home\henrique_25334\Documents\Codigos C#\02_exemplo_switch_case\bin\Debug\02_exemplo_switch_case.exe.config
+D:\home\henrique_25334\Documents\Codigos C#\02_exemplo_switch_case\bin\Debug\02_exemplo_switch_case.exe
+D:\home\henrique_25334\Documents\Codigos C#\02_exemplo_switch_case\bin\Debug\02_exemplo_switch_case.pdb
+D:\home\henrique_25334\Documents\Codigos C#\02_exemplo_switch_case\obj\Debug\02_exemplo_switch_case.exe
+D:\home\henrique_25334\Documents\Codigos C#\02_exemplo_switch_case\obj\Debug\02_exemplo_switch_case.pdb
