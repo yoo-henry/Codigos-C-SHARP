@@ -1,0 +1,7 @@
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Pagamento dos professores\bin\Debug\Pagamento dos professores.exe.config
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Pagamento dos professores\bin\Debug\Pagamento dos professores.exe
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Pagamento dos professores\bin\Debug\Pagamento dos professores.pdb
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Pagamento dos professores\obj\Debug\Pagamento dos professores.csproj.AssemblyReference.cache
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Pagamento dos professores\obj\Debug\Pagamento dos professores.csproj.CoreCompileInputs.cache
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Pagamento dos professores\obj\Debug\Pagamento dos professores.exe
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Pagamento dos professores\obj\Debug\Pagamento dos professores.pdb

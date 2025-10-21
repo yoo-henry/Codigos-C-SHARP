@@ -1,0 +1,7 @@
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Calculadora IMC\bin\Debug\Calculadora IMC.exe.config
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Calculadora IMC\bin\Debug\Calculadora IMC.exe
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Calculadora IMC\bin\Debug\Calculadora IMC.pdb
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.AssemblyReference.cache
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.CoreCompileInputs.cache
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Calculadora IMC\obj\Debug\Calculadora IMC.exe
+U:\Aulas\Programação em Algoritimo\Códigos em C#\Calculadora IMC\obj\Debug\Calculadora IMC.pdb

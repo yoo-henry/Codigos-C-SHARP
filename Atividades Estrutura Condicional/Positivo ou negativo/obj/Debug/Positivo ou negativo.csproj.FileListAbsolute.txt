@@ -1,0 +1,7 @@
+U:\Aulas\Programação em Algoritimo\Positivo ou negativo\bin\Debug\Positivo ou negativo.exe.config
+U:\Aulas\Programação em Algoritimo\Positivo ou negativo\bin\Debug\Positivo ou negativo.exe
+U:\Aulas\Programação em Algoritimo\Positivo ou negativo\bin\Debug\Positivo ou negativo.pdb
+U:\Aulas\Programação em Algoritimo\Positivo ou negativo\obj\Debug\Positivo ou negativo.csproj.AssemblyReference.cache
+U:\Aulas\Programação em Algoritimo\Positivo ou negativo\obj\Debug\Positivo ou negativo.csproj.CoreCompileInputs.cache
+U:\Aulas\Programação em Algoritimo\Positivo ou negativo\obj\Debug\Positivo ou negativo.exe
+U:\Aulas\Programação em Algoritimo\Positivo ou negativo\obj\Debug\Positivo ou negativo.pdb

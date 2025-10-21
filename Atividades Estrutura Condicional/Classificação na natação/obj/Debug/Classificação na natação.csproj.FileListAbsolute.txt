@@ -1,0 +1,7 @@
+U:\Aulas\Programação em Algoritimo\Classificação na natação\bin\Debug\Classificação na natação.exe.config
+U:\Aulas\Programação em Algoritimo\Classificação na natação\bin\Debug\Classificação na natação.exe
+U:\Aulas\Programação em Algoritimo\Classificação na natação\bin\Debug\Classificação na natação.pdb
+U:\Aulas\Programação em Algoritimo\Classificação na natação\obj\Debug\Classificação na natação.csproj.AssemblyReference.cache
+U:\Aulas\Programação em Algoritimo\Classificação na natação\obj\Debug\Classificação na natação.csproj.CoreCompileInputs.cache
+U:\Aulas\Programação em Algoritimo\Classificação na natação\obj\Debug\Classificação na natação.exe
+U:\Aulas\Programação em Algoritimo\Classificação na natação\obj\Debug\Classificação na natação.pdb
