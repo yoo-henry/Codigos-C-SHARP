@@ -1,0 +1,11 @@
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\bin\Debug\Faturamento diário de um lava rápido.exe.config
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\bin\Debug\Faturamento diário de um lava rápido.exe
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\bin\Debug\Faturamento diário de um lava rápido.pdb
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\obj\Debug\Faturamento diário de um lava rápido.csproj.AssemblyReference.cache
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\obj\Debug\Faturamento_diário_de_um_lava_rápido.Form1.resources
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\obj\Debug\Faturamento_diário_de_um_lava_rápido.Properties.Resources.resources
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\obj\Debug\Faturamento diário de um lava rápido.csproj.GenerateResource.cache
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\obj\Debug\Faturamento diário de um lava rápido.csproj.CoreCompileInputs.cache
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\obj\Debug\Faturamento diário de um lava rápido.exe
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\obj\Debug\Faturamento diário de um lava rápido.pdb
+U:\2° Modulo\DS\Faturamento diário de um lava rápido\Faturamento diário de um lava rápido\obj\Debug\Faturamento diário de um lava rápido.exe.config
