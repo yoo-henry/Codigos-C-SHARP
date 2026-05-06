@@ -1,0 +1,23 @@
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\bin\Debug\Projeto_JogoVelha_TurmaA.exe.config
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\bin\Debug\Projeto_JogoVelha_TurmaA.exe
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\bin\Debug\Projeto_JogoVelha_TurmaA.pdb
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.csproj.AssemblyReference.cache
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.frmJogo.resources
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.Properties.Resources.resources
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.csproj.GenerateResource.cache
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.csproj.CoreCompileInputs.cache
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.exe
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.pdb
+D:\etec\_2026\DS\TurmaA\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.frmInicial.resources
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\bin\Debug\Projeto_JogoVelha_TurmaA.exe.config
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\bin\Debug\Projeto_JogoVelha_TurmaA.exe
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\bin\Debug\Projeto_JogoVelha_TurmaA.pdb
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.csproj.AssemblyReference.cache
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.exe.config
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.frmJogo.resources
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.frmInicial.resources
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.Properties.Resources.resources
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.csproj.GenerateResource.cache
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.csproj.CoreCompileInputs.cache
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.exe
+U:\2° Modulo\DS\Projeto_JogoVelha_TurmaA\Projeto_JogoVelha_TurmaA\obj\Debug\Projeto_JogoVelha_TurmaA.pdb
